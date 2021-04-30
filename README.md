@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### I'm Pahan Chathuranga. Software engineering undergraduate based in Sri Lanka.
 <!--
 **pahancha/pahancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
