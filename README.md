@@ -1,5 +1,5 @@
-#Hi, I'm Pahan :)
-##An undergraduate who has dived into the world of computer science. :)
+# Hi, I'm Pahan :)
+## An undergraduate who has dived into the world of computer science. :)
 
 <p align="center">
   <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="960" height="540" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
