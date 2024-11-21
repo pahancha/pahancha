@@ -1,5 +1,5 @@
 ## Hi, I'm Pahan
-## An undergraduate who has jumped into the world of computer science. :)
+## A curious mind navigating the world of computer science. :)
 
 <p align="center">
   <img src="https://github.com/pahancha/pahancha/blob/main/codinglooney.gif">
